@@ -4,11 +4,11 @@ An AI-powered voice calling system built using n8n, Twilio, Groq LLM, and Google
 
 This project allows users to:
 
-- Call a phone number
-- Talk with an AI receptionist
-- Book dental appointments using voice
-- Store booking data automatically in Google Sheets
-- Ask general AI questions
+- Call a phone number.
+- Talk with an AI receptionist.
+- Book dental appointments using voice.
+- Store booking data automatically in Google Sheets.
+- Ask general AI questions.
 
 ---
 
